@@ -16,10 +16,10 @@
 
     <!-- Scripts -->
     @vite(['resources/sass/app.scss', 'resources/js/app.js'])
-    
+
     <style type="text/css">
         .nav-link {
-            font-size: 18px;
+            font-size: 17px;
         }
         .collapsed span {
             transform: rotate(180deg);
