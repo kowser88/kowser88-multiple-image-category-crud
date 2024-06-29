@@ -10,10 +10,10 @@ npm install & npm run build
 import database: crud.sql file in this project
 php artisan serve
 
-Login:
-user@gmail.com
-password
+**Login**
 
+- **Email: user@gmail.com**
+- **Password: password**
 
 ## Task Information
 
