@@ -5,10 +5,10 @@ PHP Version: 8.2
 
 ## Instalation
 
-composer update
-npm install & npm run build
-import database: crud.sql file in this project
-php artisan serve
+- **composer update**
+- **npm install & npm run build**
+- **import database: crud.sql file in this project**
+- **php artisan serve**
 
 **Login**
 
